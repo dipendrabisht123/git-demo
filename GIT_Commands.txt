@@ -1,1 +1,5 @@
 Following are some of the GIT commands.
+
+git init		: initialize local git repo
+git add			: addes file to staging
+git commit		: commits file to local repo
